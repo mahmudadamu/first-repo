@@ -7,3 +7,8 @@ Ha-Shem GitHub Training Repo
 * Departments
 - Faculty
 + Unit
++ Section
++ Division
+
+### Desktop Client Test
+We just cloned to desktop
